@@ -56,6 +56,7 @@ if (detectHandMovement()) {
     }
 }
 
+....
 Hand Movement is detected via MPU6050 accelerometer.
 
 Object Proximity is checked with an IR sensor.
@@ -95,7 +96,8 @@ MIT Class of 2029 (Aspirant)
 MIT Relevance
 
 This project aligns closely with the mission of MIT Media Lab and MIT Sandbox Innovation Fund. I aim to collaborate with experts in child safety, biomedical sensing, and embedded AI to scale this prototype into a deployable, open-source safety tool for households and pediatric centers.
-
+....
+Hi @mitmedialab team — I'm working on a child safety wearable project that aligns with your interest in health tech and IoT. I'd love to explore collaboration in the future or hear feedback. Thank you!
 
 ---
 
